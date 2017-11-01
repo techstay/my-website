@@ -17,11 +17,6 @@
     </b-navbar>
     <router-view/>
     <hr>
-    <footer>
-      <b-container>
-        <p>&copy;2017 - 易天的个人站</p>
-      </b-container>
-    </footer>
   </div>
 </template>
 
