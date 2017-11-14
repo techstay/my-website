@@ -11,6 +11,7 @@
         <b-nav is-nav-bar>
           <b-nav-item to="/">主页</b-nav-item>
           <b-nav-item to="/ClientInfo">客户端信息</b-nav-item>
+          <b-nav-item href="https://techstay.github.io/my-static-blog/" target="_blank">我的静态博客</b-nav-item>
           <b-nav-item to="/About">关于</b-nav-item>
         </b-nav>
       </b-collapse>
