@@ -1,0 +1,29 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.color-animate {
+  animation: color-transition 12s ease 2s infinite;
+}
+
+@keyframes color-transition {
+  0% {
+    background-color: $red;
+  }
+  20% {
+    background-color: $orange;
+  }
+  40% {
+    background-color: $teal;
+  }
+  60% {
+    background-color: $blue;
+  }
+  70% {
+    background-color: $dark;
+  }
+  90% {
+    background-color: $purple;
+  }
+  100% {
+    background-color: $red;
+  }
+}

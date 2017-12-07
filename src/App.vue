@@ -1,10 +1,10 @@
 <template>
   <div id="app">
-    <b-navbar toggleable="md" type="dark" variant="dark">
+    <b-navbar toggleable="md" type="dark" variant="dark" class="color-animate">
 
       <b-nav-toggle target="nav_collapse"></b-nav-toggle>
 
-      <b-navbar-brand href="/">易天的个人站</b-navbar-brand>
+      <b-navbar-brand to="/">易天的个人站</b-navbar-brand>
 
       <b-collapse is-nav id="nav_collapse">
 
