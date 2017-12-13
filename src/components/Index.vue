@@ -10,10 +10,10 @@
                   @sliding-end="onSlideEnd"
       >
         <b-carousel-slide
-          img-src="http://default-1251266667.file.myqcloud.com/images/LoL-Ero-League-of-Legends-DVa.png"></b-carousel-slide>
-        <b-carousel-slide img-src="http://default-1251266667.file.myqcloud.com/images/eugen.png"></b-carousel-slide>
+          img-src="https://default-1251266667.file.myqcloud.com/images/LoL-Ero-League-of-Legends-DVa.png"></b-carousel-slide>
+        <b-carousel-slide img-src="https://default-1251266667.file.myqcloud.com/images/eugen.png"></b-carousel-slide>
         <b-carousel-slide
-          img-src="http://default-1251266667.file.myqcloud.com/images/%E7%81%B5%E6%A2%A6.png"></b-carousel-slide>
+          img-src="https://default-1251266667.file.myqcloud.com/images/%E7%81%B5%E6%A2%A6.png"></b-carousel-slide>
 
       </b-carousel>
     </b-jumbotron>
