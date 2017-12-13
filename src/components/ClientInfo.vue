@@ -19,7 +19,7 @@
     tableItems = []
     tableItems.push({key: '操作系统', value: `${platform.os}`})
     tableItems.push({key: '浏览器', value: `${platform.name} ${platform.version}`})
-    axios.get('http://httpbin.org/ip')
+    axios.get('https://httpbin.org/ip')
       .then(function (response) {
         let ip = response.data.origin
         tableItems.push({key: 'IP地址', value: ip})
