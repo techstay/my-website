@@ -6,6 +6,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import 'babel-polyfill'
 import './assets/css/site.scss'
+import 'canvas-nest.js'
 
 Vue.use(BootstrapVue)
 Vue.config.productionTip = false
