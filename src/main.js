@@ -11,6 +11,7 @@ import 'canvas-nest.js'
 Vue.use(BootstrapVue)
 Vue.config.productionTip = false
 
+// eslint-disable-next-line
 new Vue({
   el: '#app',
   router,
